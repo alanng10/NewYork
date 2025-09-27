@@ -8,13 +8,12 @@ The name is "Landera".
 
 New York has 1 define name.
 
-The name is "Lonaro".
+The name is "Lonad".
 
 Lonaro word has spell.
 The spell is:
 "L" for Land Class.
 "o" for offer marry.
 "n" for never class.
-"a" for all node.
-"r" for radius time.
-"o" for 
+"a" for all kind.
+"d" for done effect.
