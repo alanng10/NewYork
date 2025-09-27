@@ -10,7 +10,7 @@ New York has 1 define name.
 
 The name is "Lonad".
 
-Lonaro word has spell.
+Lonad word has spell.
 The spell is:
 "L" for Land Class.
 "o" for offer marry.
