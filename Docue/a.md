@@ -8,14 +8,13 @@ The name is "Landera".
 
 New York has 1 define name.
 
-The name is "Lonatro".
+The name is "Lonaro".
 
-Lonatro word has spell.
+Lonaro word has spell.
 The spell is:
-"L" for 
-"o" for 
-"n" for 
-"a" for 
-"t" for 
-"r" for 
+"L" for Land Class.
+"o" for offer marry.
+"n" for never class.
+"a" for all node.
+"r" for radius time.
 "o" for 
