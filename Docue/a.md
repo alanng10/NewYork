@@ -33,3 +33,5 @@ The spell is:
 "n" for never life.
 "a" for all kind.
 "d" for done effect.
+
+New York city define name is same as New York metro.
