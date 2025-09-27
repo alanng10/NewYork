@@ -1,6 +1,6 @@
 # New York
 
-New York is New York metro in United States of America country.
+New York is New York city in United States of America country.
 
 New York has 1 define name.
 
@@ -37,4 +37,4 @@ The spell is:
 
 Lonade word pronoun is in 2 sound.
 
-New York city define name is same as New York metro.
+New York metro define name is same as New York city.
