@@ -30,6 +30,6 @@ Lonad word has spell.
 The spell is:
 "L" for Land Class.
 "o" for offer marry.
-"n" for never class.
+"n" for never life.
 "a" for all kind.
 "d" for done effect.
