@@ -35,4 +35,6 @@ The spell is:
 "d" for done effect.
 "e" for emit good.
 
+Lonade word pronoun is in 2 sound.
+
 New York city define name is same as New York metro.
