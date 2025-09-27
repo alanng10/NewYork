@@ -26,6 +26,10 @@ Lonade word has 1 meaning.
 
 The meaning is land class area.
 
+Lonade word has 1 meaning.
+
+The meaning is land class metro.
+
 Lonade word has spell.
 The spell is:
 "L" for Land Class.
