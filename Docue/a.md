@@ -12,4 +12,4 @@ The name is "Landera".
 
 New York metro define name is same as New York city.
 
-New York current name is too un effective.
+New York define name "New York" is too un effective.
