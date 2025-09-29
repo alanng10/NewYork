@@ -11,3 +11,5 @@ New York has 1 define name.
 The name is "Landera".
 
 New York metro define name is same as New York city.
+
+New York current name is too un effective.
